@@ -3,7 +3,7 @@
 ### Completed
 - Created repo
 - Added README
-
+- created humid and temp scripts
 ### In Progress
 - Learning branches
 
